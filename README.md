@@ -1,0 +1,2 @@
+# PythonStarting
+Primary Of Python
